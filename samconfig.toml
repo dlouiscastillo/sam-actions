@@ -18,6 +18,7 @@ capabilities = "CAPABILITY_IAM"
 confirm_changeset = true
 
 [default.package.parameters]
+confirm_changeset = true
 
 [default.sync.parameters]
 watch = true
